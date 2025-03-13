@@ -183,7 +183,7 @@ How to make pancakes: <ol id="wd-pancakes"> <li>Mix dry ingredients.</li> <li>Ad
             <a href="https://www.lipsum.com" id="wd-lipsum"> click here</a>
              to get dummy text<br/>
             Please
-            <a href="https://github.com/shahjwal/kambaz-react-web-app/tree/a4" id="wd-github">
+            <a href="https://github.com/shahjwal/kambaz-react-web-app-a4" id="wd-github">
              click here</a> to visit my github repository.<br/>
         </div>
 );}
